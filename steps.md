@@ -1,4 +1,4 @@
-### ============================================Steps to create a MERN project============================================
+1 Steps to create a MERN project
 
 ###                    ++++++++++++++++++++++++++++++++||server_Side||++++++++++++++++++++++++++++++++
 # Step 1: Install server-side dependencies
