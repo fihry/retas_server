@@ -101,6 +101,6 @@ This guide provides step-by-step instructions on how to set up a MERN (MongoDB, 
     - Import routes
     - Create routes
 
----
-
-Created at : 2023/11/25 by fihry
+## Contributors
+- Gitea : [melfihry](https://learn.zone01oujda.ma/git/melfihry)
+- Github : [fihry](https://github.com/fihry)
