@@ -13,7 +13,7 @@ app.use(cors());
 // connect to mongodb
 app.connect = mongoose.connect(`mongodb+srv://${user}:${password}@cluster0.xz7i3rg.mongodb.net/${model}?retryWrites=true&w=majority`)
 .then(() => console.log('Connected to MongoDB...'))
-.catch(err => console.error(`Could not connect to MongoDB..`));
+.catch(err => console.error("Could not connect to MongoDB.."));
 // routes
 app.use('/api',Routes);
 //>> default route
